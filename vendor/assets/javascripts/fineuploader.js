@@ -1492,7 +1492,7 @@ qq.DragAndDrop = function(o) {
      options = {
         dropArea: null,
         extraDropzones: [],
-        hideDropzones: true,
+        hideDropzones: false,
         multiple: true,
         classes: {
             dropActive: null
